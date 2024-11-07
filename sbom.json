@@ -1,0 +1,3624 @@
+{
+    "sbom": {
+        "spdxVersion": "SPDX-2.3",
+        "dataLicense": "CC0-1.0",
+        "SPDXID": "SPDXRef-DOCUMENT",
+        "name": "com.github.microsoft/autogen",
+        "documentNamespace": "https://spdx.org/spdxdocs/protobom/99aa5b94-2a34-4260-a057-4cafb1864647",
+        "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
+        "creationInfo": {
+            "creators": [
+                "Tool: protobom-devel",
+                "Tool: GitHub.com-Dependency-Graph"
+            ],
+            "created": "2024-11-06T09:17:37Z"
+        },
+        "packages": [
+            {
+                "name": "autoprefixer",
+                "SPDXID": "SPDXRef-npm-autoprefixer-7b26ed",
+                "versionInfo": "^ 10.4.7",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/autoprefixer"
+                    }
+                ]
+            },
+            {
+                "name": "react-markdown",
+                "SPDXID": "SPDXRef-npm-react-markdown-d87ce5",
+                "versionInfo": "^ 8.0.7",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react-markdown"
+                    }
+                ]
+            },
+            {
+                "name": "remark-gfm",
+                "SPDXID": "SPDXRef-npm-remark-gfm-41e328",
+                "versionInfo": "^ 3.0.1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/remark-gfm"
+                    }
+                ]
+            },
+            {
+                "name": "react",
+                "SPDXID": "SPDXRef-npm-react-613322",
+                "versionInfo": "^ 18.2.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react"
+                    }
+                ]
+            },
+            {
+                "name": "react-dom",
+                "SPDXID": "SPDXRef-npm-react-dom-c8865b",
+                "versionInfo": "^ 18.2.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react-dom"
+                    }
+                ]
+            },
+            {
+                "name": "zustand",
+                "SPDXID": "SPDXRef-npm-zustand-58cb0d",
+                "versionInfo": "^ 4.4.6",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/zustand"
+                    }
+                ]
+            },
+            {
+                "name": "uuid",
+                "SPDXID": "SPDXRef-npm-uuid-447376",
+                "versionInfo": "^ 9.0.1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/uuid"
+                    }
+                ]
+            },
+            {
+                "name": "@heroicons/react",
+                "SPDXID": "SPDXRef-npm-heroicons-react-91a7d4",
+                "versionInfo": "^ 2.0.18",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40heroicons/react"
+                    }
+                ]
+            },
+            {
+                "name": "@types/react-dom",
+                "SPDXID": "SPDXRef-npm-types-react-dom-892651",
+                "versionInfo": "^ 18.2.15",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/react-dom"
+                    }
+                ]
+            },
+            {
+                "name": "@tailwindcss/typography",
+                "SPDXID": "SPDXRef-npm-tailwindcss-typography-fc0b53",
+                "versionInfo": "^ 0.5.9",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40tailwindcss/typography"
+                    }
+                ]
+            },
+            {
+                "name": "react-router-dom",
+                "SPDXID": "SPDXRef-npm-react-router-dom-6ce22e",
+                "versionInfo": "^ 6.3.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react-router-dom"
+                    }
+                ]
+            },
+            {
+                "name": "react-syntax-highlighter",
+                "SPDXID": "SPDXRef-npm-react-syntax-highlighter-d8263e",
+                "versionInfo": "^ 15.5.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react-syntax-highlighter"
+                    }
+                ]
+            },
+            {
+                "name": "typescript",
+                "SPDXID": "SPDXRef-npm-typescript-665fca",
+                "versionInfo": "^ 4.6.4",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/typescript"
+                    }
+                ]
+            },
+            {
+                "name": "lodash.debounce",
+                "SPDXID": "SPDXRef-npm-lodash.debounce-b58159",
+                "versionInfo": "^ 4.0.8",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/lodash.debounce"
+                    }
+                ]
+            },
+            {
+                "name": "jszip",
+                "SPDXID": "SPDXRef-npm-jszip-2e9f19",
+                "versionInfo": "^ 3.10.1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/jszip"
+                    }
+                ]
+            },
+            {
+                "name": "@monaco-editor/react",
+                "SPDXID": "SPDXRef-npm-monaco-editor-react-575b3d",
+                "versionInfo": "^ 4.6.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40monaco-editor/react"
+                    }
+                ]
+            },
+            {
+                "name": "@types/node",
+                "SPDXID": "SPDXRef-npm-types-node-6455d5",
+                "versionInfo": "^ 18.7.13",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/node"
+                    }
+                ]
+            },
+            {
+                "name": "@mdx-js/react",
+                "SPDXID": "SPDXRef-npm-mdx-js-react-8bbc92",
+                "versionInfo": "^ 1.6.22",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40mdx-js/react"
+                    }
+                ]
+            },
+            {
+                "name": "@tailwindcss/line-clamp",
+                "SPDXID": "SPDXRef-npm-tailwindcss-line-clamp-85c2b1",
+                "versionInfo": "^ 0.4.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40tailwindcss/line-clamp"
+                    }
+                ]
+            },
+            {
+                "name": "papaparse",
+                "SPDXID": "SPDXRef-npm-papaparse-f407c0",
+                "versionInfo": "^ 5.4.1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/papaparse"
+                    }
+                ]
+            },
+            {
+                "name": "@types/react-syntax-highlighter",
+                "SPDXID": "SPDXRef-npm-types-react-syntax-highlighter-6db1e3",
+                "versionInfo": "^ 15.5.10",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/react-syntax-highlighter"
+                    }
+                ]
+            },
+            {
+                "name": "tailwindcss",
+                "SPDXID": "SPDXRef-npm-tailwindcss-437bcc",
+                "versionInfo": "^ 3.0.24",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/tailwindcss"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-plugin-image",
+                "SPDXID": "SPDXRef-npm-gatsby-plugin-image-ac682a",
+                "versionInfo": "^ 2.14.1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-plugin-image"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-plugin-manifest",
+                "SPDXID": "SPDXRef-npm-gatsby-plugin-manifest-f9b5e4",
+                "versionInfo": "^ 4.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-plugin-manifest"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-plugin-sass",
+                "SPDXID": "SPDXRef-npm-gatsby-plugin-sass-922e5f",
+                "versionInfo": "^ 5.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-plugin-sass"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-plugin-sitemap",
+                "SPDXID": "SPDXRef-npm-gatsby-plugin-sitemap-cb791e",
+                "versionInfo": "^ 5.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-plugin-sitemap"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-source-filesystem",
+                "SPDXID": "SPDXRef-npm-gatsby-source-filesystem-315808",
+                "versionInfo": "^ 4.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-source-filesystem"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-transformer-sharp",
+                "SPDXID": "SPDXRef-npm-gatsby-transformer-sharp-910f8b",
+                "versionInfo": "^ 4.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-transformer-sharp"
+                    }
+                ]
+            },
+            {
+                "name": "react-resizable",
+                "SPDXID": "SPDXRef-npm-react-resizable-8609de",
+                "versionInfo": "^ 3.0.5",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react-resizable"
+                    }
+                ]
+            },
+            {
+                "name": "postcss",
+                "SPDXID": "SPDXRef-npm-postcss-02f500",
+                "versionInfo": "^ 8.4.13",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/postcss"
+                    }
+                ]
+            },
+            {
+                "name": "@types/lodash.debounce",
+                "SPDXID": "SPDXRef-npm-types-lodash.debounce-c3b888",
+                "versionInfo": "^ 4.0.9",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/lodash.debounce"
+                    }
+                ]
+            },
+            {
+                "name": "sass",
+                "SPDXID": "SPDXRef-npm-sass-d06413",
+                "versionInfo": "^ 1.51.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/sass"
+                    }
+                ]
+            },
+            {
+                "name": "react-contenteditable",
+                "SPDXID": "SPDXRef-npm-react-contenteditable-fc051c",
+                "versionInfo": "^ 3.3.6",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react-contenteditable"
+                    }
+                ]
+            },
+            {
+                "name": "@mdx-js/mdx",
+                "SPDXID": "SPDXRef-npm-mdx-js-mdx-2802c5",
+                "versionInfo": "^ 1.6.22",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40mdx-js/mdx"
+                    }
+                ]
+            },
+            {
+                "name": "@headlessui/react",
+                "SPDXID": "SPDXRef-npm-headlessui-react-122ff6",
+                "versionInfo": "^ 1.7.16",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40headlessui/react"
+                    }
+                ]
+            },
+            {
+                "name": "antd",
+                "SPDXID": "SPDXRef-npm-antd-d35da5",
+                "versionInfo": "^ 5.1.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/antd"
+                    }
+                ]
+            },
+            {
+                "name": "@types/react-resizable",
+                "SPDXID": "SPDXRef-npm-types-react-resizable-a317b5",
+                "versionInfo": "^ 3.0.2",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/react-resizable"
+                    }
+                ]
+            },
+            {
+                "name": "react-inner-image-zoom",
+                "SPDXID": "SPDXRef-npm-react-inner-image-zoom-5acdab",
+                "versionInfo": "^ 3.0.2",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/react-inner-image-zoom"
+                    }
+                ]
+            },
+            {
+                "name": "@types/react-inner-image-zoom",
+                "SPDXID": "SPDXRef-npm-types-react-inner-image-zoom-861157",
+                "versionInfo": "^ 3.0.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/react-inner-image-zoom"
+                    }
+                ]
+            },
+            {
+                "name": "@ant-design/charts",
+                "SPDXID": "SPDXRef-npm-ant-design-charts-ff3525",
+                "versionInfo": "^ 1.3.6",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40ant-design/charts"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-plugin-sharp",
+                "SPDXID": "SPDXRef-npm-gatsby-plugin-sharp-228f73",
+                "versionInfo": "^ 4.14.1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-plugin-sharp"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby",
+                "SPDXID": "SPDXRef-npm-gatsby-d14904",
+                "versionInfo": "^ 4.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-plugin-mdx",
+                "SPDXID": "SPDXRef-npm-gatsby-plugin-mdx-bc76c8",
+                "versionInfo": "^ 3.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-plugin-mdx"
+                    }
+                ]
+            },
+            {
+                "name": "gatsby-plugin-postcss",
+                "SPDXID": "SPDXRef-npm-gatsby-plugin-postcss-4f29ba",
+                "versionInfo": "^ 5.14.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/gatsby-plugin-postcss"
+                    }
+                ]
+            },
+            {
+                "name": "@types/papaparse",
+                "SPDXID": "SPDXRef-npm-types-papaparse-153c12",
+                "versionInfo": "^ 5.3.14",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/papaparse"
+                    }
+                ]
+            },
+            {
+                "name": "@types/react",
+                "SPDXID": "SPDXRef-npm-types-react-e28e87",
+                "versionInfo": "^ 18.2.48",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/react"
+                    }
+                ]
+            },
+            {
+                "name": "@types/uuid",
+                "SPDXID": "SPDXRef-npm-types-uuid-3914c5",
+                "versionInfo": "^ 9.0.8",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40types/uuid"
+                    }
+                ]
+            },
+            {
+                "name": "@ant-design/plots",
+                "SPDXID": "SPDXRef-npm-ant-design-plots-c2f27a",
+                "versionInfo": "^ 2.2.2",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:npm/%40ant-design/plots"
+                    }
+                ]
+            },
+            {
+                "name": "azure-identity",
+                "SPDXID": "SPDXRef-pypi-azure-identity-2572cc",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/azure-identity"
+                    }
+                ]
+            },
+            {
+                "name": "tiktoken",
+                "SPDXID": "SPDXRef-pypi-tiktoken-c11881",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/tiktoken"
+                    }
+                ]
+            },
+            {
+                "name": "-",
+                "SPDXID": "SPDXRef-pypi---8e06fa",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/-"
+                    }
+                ]
+            },
+            {
+                "name": "FluentAssertions",
+                "SPDXID": "SPDXRef-nuget-FluentAssertions-98d9d6",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/FluentAssertions"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.SemanticKernel.Plugins.Web",
+                "SPDXID": "SPDXRef-nuget-Microsoft.SemanticKernel.Plugins.Web-c3ec00",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.SemanticKernel.Plugins.Web"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.AI",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.AI-2ec2d4",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.AI"
+                    }
+                ]
+            },
+            {
+                "name": "Azure.AI.OpenAI",
+                "SPDXID": "SPDXRef-nuget-Azure.AI.OpenAI-df064d",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Azure.AI.OpenAI"
+                    }
+                ]
+            },
+            {
+                "name": "Aspire.Hosting.Orleans",
+                "SPDXID": "SPDXRef-nuget-Aspire.Hosting.Orleans-895d2c",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Aspire.Hosting.Orleans"
+                    }
+                ]
+            },
+            {
+                "name": "Aspire.Hosting.AppHost",
+                "SPDXID": "SPDXRef-nuget-Aspire.Hosting.AppHost-9652f9",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Aspire.Hosting.AppHost"
+                    }
+                ]
+            },
+            {
+                "name": "Aspire.Hosting.Azure.CognitiveServices",
+                "SPDXID": "SPDXRef-nuget-Aspire.Hosting.Azure.CognitiveServices-f7c250",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Aspire.Hosting.Azure.CognitiveServices"
+                    }
+                ]
+            },
+            {
+                "name": "Aspire.Hosting.Azure.ApplicationInsights",
+                "SPDXID": "SPDXRef-nuget-Aspire.Hosting.Azure.ApplicationInsights-8973a0",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Aspire.Hosting.Azure.ApplicationInsights"
+                    }
+                ]
+            },
+            {
+                "name": "Aspire.Hosting.Qdrant",
+                "SPDXID": "SPDXRef-nuget-Aspire.Hosting.Qdrant-5635c9",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Aspire.Hosting.Qdrant"
+                    }
+                ]
+            },
+            {
+                "name": "Swashbuckle.AspNetCore",
+                "SPDXID": "SPDXRef-nuget-Swashbuckle.AspNetCore-81f4dd",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore"
+                    }
+                ]
+            },
+            {
+                "name": "System.IdentityModel.Tokens.Jwt",
+                "SPDXID": "SPDXRef-nuget-System.IdentityModel.Tokens.Jwt-ebf458",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/System.IdentityModel.Tokens.Jwt"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Azure",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Azure-4074d9",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Azure"
+                    }
+                ]
+            },
+            {
+                "name": "Azure.Identity",
+                "SPDXID": "SPDXRef-nuget-Azure.Identity-4487ce",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Azure.Identity"
+                    }
+                ]
+            },
+            {
+                "name": "Azure.Storage.Files.Shares",
+                "SPDXID": "SPDXRef-nuget-Azure.Storage.Files.Shares-a514e0",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Azure.Storage.Files.Shares"
+                    }
+                ]
+            },
+            {
+                "name": "Octokit",
+                "SPDXID": "SPDXRef-nuget-Octokit-50cc3f",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Octokit"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.ApplicationInsights.AspNetCore",
+                "SPDXID": "SPDXRef-nuget-Microsoft.ApplicationInsights.AspNetCore-5186ea",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.ApplicationInsights.AspNetCore"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Http.Resilience",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Http.Resilience-0316c3",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Http.Resilience"
+                    }
+                ]
+            },
+            {
+                "name": "Azure.Data.Tables",
+                "SPDXID": "SPDXRef-nuget-Azure.Data.Tables-7c9539",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Azure.Data.Tables"
+                    }
+                ]
+            },
+            {
+                "name": "Octokit.Webhooks.AspNetCore",
+                "SPDXID": "SPDXRef-nuget-Octokit.Webhooks.AspNetCore-9f0d91",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Octokit.Webhooks.AspNetCore"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.SemanticKernel",
+                "SPDXID": "SPDXRef-nuget-Microsoft.SemanticKernel-0110a3",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.SemanticKernel"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.SemanticKernel.Plugins.Memory",
+                "SPDXID": "SPDXRef-nuget-Microsoft.SemanticKernel.Plugins.Memory-5cab3a",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.SemanticKernel.Plugins.Memory"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.SemanticKernel.Connectors.Qdrant",
+                "SPDXID": "SPDXRef-nuget-Microsoft.SemanticKernel.Connectors.Qdrant-7c0c30",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.SemanticKernel.Connectors.Qdrant"
+                    }
+                ]
+            },
+            {
+                "name": "Azure.ResourceManager.ContainerInstance",
+                "SPDXID": "SPDXRef-nuget-Azure.ResourceManager.ContainerInstance-774e20",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Azure.ResourceManager.ContainerInstance"
+                    }
+                ]
+            },
+            {
+                "name": "Google.Protobuf",
+                "SPDXID": "SPDXRef-nuget-Google.Protobuf-4abd8a",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Google.Protobuf"
+                    }
+                ]
+            },
+            {
+                "name": "Grpc.Tools",
+                "SPDXID": "SPDXRef-nuget-Grpc.Tools-2c268d",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Grpc.Tools"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Configuration.Json",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Configuration.Json-a2b86a",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.Json"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Logging.Console",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Logging.Console-13a689",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Logging.Console"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Configuration.EnvironmentVariables",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Configuration.EnvironmentVariables-cba332",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Configuration.UserSecrets",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Configuration.UserSecrets-be47bd",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Configuration.FileExtensions",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Configuration.FileExtensions-583442",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.FileExtensions"
+                    }
+                ]
+            },
+            {
+                "name": "PdfPig",
+                "SPDXID": "SPDXRef-nuget-PdfPig-67ca6c",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/PdfPig"
+                    }
+                ]
+            },
+            {
+                "name": "System.CommandLine",
+                "SPDXID": "SPDXRef-nuget-System.CommandLine-8ab802",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/System.CommandLine"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Logging.Debug",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Logging.Debug-3955d5",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Logging.Debug"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.Hosting",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Hosting-c540bd",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.Hosting"
+                    }
+                ]
+            },
+            {
+                "name": "Aspire.Hosting",
+                "SPDXID": "SPDXRef-nuget-Aspire.Hosting-06d36e",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Aspire.Hosting"
+                    }
+                ]
+            },
+            {
+                "name": "Azure.AI.Inference",
+                "SPDXID": "SPDXRef-nuget-Azure.AI.Inference-8043a2",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Azure.AI.Inference"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Bcl.AsyncInterfaces",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Bcl.AsyncInterfaces-ab1021",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces"
+                    }
+                ]
+            },
+            {
+                "name": "JsonSchema.Net.Generation",
+                "SPDXID": "SPDXRef-nuget-JsonSchema.Net.Generation-d56456",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/JsonSchema.Net.Generation"
+                    }
+                ]
+            },
+            {
+                "name": "System.Memory.Data",
+                "SPDXID": "SPDXRef-nuget-System.Memory.Data-389927",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/System.Memory.Data"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.AI.Abstractions",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.AI.Abstractions-7ec74e",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.AI.Abstractions"
+                    }
+                ]
+            },
+            {
+                "name": "System.IO.Packaging",
+                "SPDXID": "SPDXRef-nuget-System.IO.Packaging-dd7ba6",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/System.IO.Packaging"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.DotNet.Interactive",
+                "SPDXID": "SPDXRef-nuget-Microsoft.DotNet.Interactive-3f642f",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.DotNet.Interactive"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.DotNet.Interactive.PackageManagement",
+                "SPDXID": "SPDXRef-nuget-Microsoft.DotNet.Interactive.PackageManagement-673507",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.DotNet.Interactive.PackageManagement"
+                    }
+                ]
+            },
+            {
+                "name": "System.Formats.Asn1",
+                "SPDXID": "SPDXRef-nuget-System.Formats.Asn1-837d68",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/System.Formats.Asn1"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.DotNet.Interactive.Jupyter",
+                "SPDXID": "SPDXRef-nuget-Microsoft.DotNet.Interactive.Jupyter-ab6b5c",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.DotNet.Interactive.Jupyter"
+                    }
+                ]
+            },
+            {
+                "name": "Google.Cloud.AIPlatform.V1",
+                "SPDXID": "SPDXRef-nuget-Google.Cloud.AIPlatform.V1-8b144f",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Google.Cloud.AIPlatform.V1"
+                    }
+                ]
+            },
+            {
+                "name": "OpenAI",
+                "SPDXID": "SPDXRef-nuget-OpenAI-3736a4",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/OpenAI"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.SemanticKernel.Agents.Core",
+                "SPDXID": "SPDXRef-nuget-Microsoft.SemanticKernel.Agents.Core-2c04f6",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.SemanticKernel.Agents.Core"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.SemanticKernel.Connectors.AzureOpenAI",
+                "SPDXID": "SPDXRef-nuget-Microsoft.SemanticKernel.Connectors.AzureOpenAI-91b81f",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureOpenAI"
+                    }
+                ]
+            },
+            {
+                "name": "Newtonsoft.Json",
+                "SPDXID": "SPDXRef-nuget-Newtonsoft.Json-227780",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Newtonsoft.Json"
+                    }
+                ]
+            },
+            {
+                "name": "System.CodeDom",
+                "SPDXID": "SPDXRef-nuget-System.CodeDom-4b2d85",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/System.CodeDom"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.CodeAnalysis.CSharp.Workspaces",
+                "SPDXID": "SPDXRef-nuget-Microsoft.CodeAnalysis.CSharp.Workspaces-71bb65",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.CodeAnalysis.CSharp.Workspaces"
+                    }
+                ]
+            },
+            {
+                "name": "Grpc.AspNetCore",
+                "SPDXID": "SPDXRef-nuget-Grpc.AspNetCore-9e25b6",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Grpc.AspNetCore"
+                    }
+                ]
+            },
+            {
+                "name": "Grpc.Net.ClientFactory",
+                "SPDXID": "SPDXRef-nuget-Grpc.Net.ClientFactory-171b65",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Grpc.Net.ClientFactory"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.DependencyInjection.Abstractions",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection.Abstractions-813c11",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.DependencyInjection.Abstractions"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.DependencyInjection",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection-cf07b1",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.DependencyInjection"
+                    }
+                ]
+            },
+            {
+                "name": "System.Text.Json",
+                "SPDXID": "SPDXRef-nuget-System.Text.Json-84c110",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/System.Text.Json"
+                    }
+                ]
+            },
+            {
+                "name": "Aspire.Azure.AI.OpenAI",
+                "SPDXID": "SPDXRef-nuget-Aspire.Azure.AI.OpenAI-5bb9e0",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Aspire.Azure.AI.OpenAI"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.AI.OpenAI",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.AI.OpenAI-dc8901",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.AI.OpenAI"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.AI.Ollama",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.AI.Ollama-cac73c",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.AI.Ollama"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.AI.AzureAIInference",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.AI.AzureAIInference-f6ee47",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.AI.AzureAIInference"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Sdk",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Sdk-f9f94a",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Sdk"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Streaming",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Streaming-bc5515",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Streaming"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Reminders",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Reminders-494508",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Reminders"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Server",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Server-47406b",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Server"
+                    }
+                ]
+            },
+            {
+                "name": "OrleansDashboard",
+                "SPDXID": "SPDXRef-nuget-OrleansDashboard-09aadd",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/OrleansDashboard"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Serialization.Protobuf",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Serialization.Protobuf-37b5f7",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Serialization.Protobuf"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Runtime",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Runtime-07fd2b",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Runtime"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Clustering.Cosmos",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Clustering.Cosmos-0379af",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Clustering.Cosmos"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Persistence.Cosmos",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Persistence.Cosmos-57ce29",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Persistence.Cosmos"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Reminders.Cosmos",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Reminders.Cosmos-3259f3",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Reminders.Cosmos"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Orleans.Streaming.EventHubs",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Orleans.Streaming.EventHubs-ded96a",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Orleans.Streaming.EventHubs"
+                    }
+                ]
+            },
+            {
+                "name": "OpenTelemetry.Extensions.Hosting",
+                "SPDXID": "SPDXRef-nuget-OpenTelemetry.Extensions.Hosting-d5282c",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/OpenTelemetry.Extensions.Hosting"
+                    }
+                ]
+            },
+            {
+                "name": "OpenTelemetry.Instrumentation.AspNetCore",
+                "SPDXID": "SPDXRef-nuget-OpenTelemetry.Instrumentation.AspNetCore-55b802",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/OpenTelemetry.Instrumentation.AspNetCore"
+                    }
+                ]
+            },
+            {
+                "name": "OpenTelemetry.Instrumentation.Http",
+                "SPDXID": "SPDXRef-nuget-OpenTelemetry.Instrumentation.Http-e4e4b4",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/OpenTelemetry.Instrumentation.Http"
+                    }
+                ]
+            },
+            {
+                "name": "OpenTelemetry.Exporter.OpenTelemetryProtocol",
+                "SPDXID": "SPDXRef-nuget-OpenTelemetry.Exporter.OpenTelemetryProtocol-8cc3cf",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/OpenTelemetry.Exporter.OpenTelemetryProtocol"
+                    }
+                ]
+            },
+            {
+                "name": "OpenTelemetry.Instrumentation.Runtime",
+                "SPDXID": "SPDXRef-nuget-OpenTelemetry.Instrumentation.Runtime-597231",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/OpenTelemetry.Instrumentation.Runtime"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.Extensions.ServiceDiscovery",
+                "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.ServiceDiscovery-56d106",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.Extensions.ServiceDiscovery"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.PowerShell.SDK",
+                "SPDXID": "SPDXRef-nuget-Microsoft.PowerShell.SDK-f0ee42",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.PowerShell.SDK"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft.AspNetCore.TestHost",
+                "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.TestHost-fc99c8",
+                "versionInfo": ">= 0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:nuget/Microsoft.AspNetCore.TestHost"
+                    }
+                ]
+            },
+            {
+                "name": "pandas",
+                "SPDXID": "SPDXRef-pypi-pandas-481f48",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pandas"
+                    }
+                ]
+            },
+            {
+                "name": "openai",
+                "SPDXID": "SPDXRef-pypi-openai-b21d31",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/openai"
+                    }
+                ]
+            },
+            {
+                "name": "scipy",
+                "SPDXID": "SPDXRef-pypi-scipy-4ed3e7",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/scipy"
+                    }
+                ]
+            },
+            {
+                "name": "docker",
+                "SPDXID": "SPDXRef-pypi-docker-5930fc",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/docker"
+                    }
+                ]
+            },
+            {
+                "name": "tabulate",
+                "SPDXID": "SPDXRef-pypi-tabulate-9a588e",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/tabulate"
+                    }
+                ]
+            },
+            {
+                "name": "huggingface-hub",
+                "SPDXID": "SPDXRef-pypi-huggingface-hub-392b13",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/huggingface-hub"
+                    }
+                ]
+            },
+            {
+                "name": "autogen-core",
+                "SPDXID": "SPDXRef-pypi-autogen-core-0.4.0.dev4-6dc96a",
+                "versionInfo": "0.4.0.dev4",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/autogen-core@0.4.0.dev4"
+                    }
+                ]
+            },
+            {
+                "name": "opentelemetry-api",
+                "SPDXID": "SPDXRef-pypi-opentelemetry-api-e795a4",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/opentelemetry-api"
+                    }
+                ]
+            },
+            {
+                "name": "pillow",
+                "SPDXID": "SPDXRef-pypi-pillow-7609cb",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pillow"
+                    }
+                ]
+            },
+            {
+                "name": "typing-extensions",
+                "SPDXID": "SPDXRef-pypi-typing-extensions-def85b",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/typing-extensions"
+                    }
+                ]
+            },
+            {
+                "name": "protobuf",
+                "SPDXID": "SPDXRef-pypi-protobuf-0a6c44",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/protobuf"
+                    }
+                ]
+            },
+            {
+                "name": "aiohttp",
+                "SPDXID": "SPDXRef-pypi-aiohttp-9a12d4",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/aiohttp"
+                    }
+                ]
+            },
+            {
+                "name": "grpcio",
+                "SPDXID": "SPDXRef-pypi-grpcio-80843b",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/grpcio"
+                    }
+                ]
+            },
+            {
+                "name": "openai",
+                "SPDXID": "SPDXRef-pypi-openai-755610",
+                "versionInfo": ">= 1.3",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/openai"
+                    }
+                ]
+            },
+            {
+                "name": "pydantic",
+                "SPDXID": "SPDXRef-pypi-pydantic-835a81",
+                "versionInfo": "< 3.0.0,>= 2.0.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pydantic"
+                    }
+                ]
+            },
+            {
+                "name": "asyncio-atexit",
+                "SPDXID": "SPDXRef-pypi-asyncio-atexit-a81255",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/asyncio-atexit"
+                    }
+                ]
+            },
+            {
+                "name": "requests",
+                "SPDXID": "SPDXRef-pypi-requests-5ef7ca",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/requests"
+                    }
+                ]
+            },
+            {
+                "name": "numpy",
+                "SPDXID": "SPDXRef-pypi-numpy-c68421",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/numpy"
+                    }
+                ]
+            },
+            {
+                "name": "speechrecognition",
+                "SPDXID": "SPDXRef-pypi-speechrecognition-e88cf4",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/speechrecognition"
+                    }
+                ]
+            },
+            {
+                "name": "openpyxl",
+                "SPDXID": "SPDXRef-pypi-openpyxl-f818d0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/openpyxl"
+                    }
+                ]
+            },
+            {
+                "name": "beautifulsoup4",
+                "SPDXID": "SPDXRef-pypi-beautifulsoup4-2d80a6",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/beautifulsoup4"
+                    }
+                ]
+            },
+            {
+                "name": "pydub",
+                "SPDXID": "SPDXRef-pypi-pydub-87f130",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pydub"
+                    }
+                ]
+            },
+            {
+                "name": "aiofiles",
+                "SPDXID": "SPDXRef-pypi-aiofiles-fb60d2",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/aiofiles"
+                    }
+                ]
+            },
+            {
+                "name": "python-pptx",
+                "SPDXID": "SPDXRef-pypi-python-pptx-7c9dec",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/python-pptx"
+                    }
+                ]
+            },
+            {
+                "name": "markdownify",
+                "SPDXID": "SPDXRef-pypi-markdownify-90ab20",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/markdownify"
+                    }
+                ]
+            },
+            {
+                "name": "playwright",
+                "SPDXID": "SPDXRef-pypi-playwright-a42320",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/playwright"
+                    }
+                ]
+            },
+            {
+                "name": "pdfminer-six",
+                "SPDXID": "SPDXRef-pypi-pdfminer-six-6ef72c",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pdfminer-six"
+                    }
+                ]
+            },
+            {
+                "name": "pathvalidate",
+                "SPDXID": "SPDXRef-pypi-pathvalidate-f878af",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pathvalidate"
+                    }
+                ]
+            },
+            {
+                "name": "youtube-transcript-api",
+                "SPDXID": "SPDXRef-pypi-youtube-transcript-api-7989d7",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/youtube-transcript-api"
+                    }
+                ]
+            },
+            {
+                "name": "mammoth",
+                "SPDXID": "SPDXRef-pypi-mammoth-85cf0d",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/mammoth"
+                    }
+                ]
+            },
+            {
+                "name": "puremagic",
+                "SPDXID": "SPDXRef-pypi-puremagic-f30063",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/puremagic"
+                    }
+                ]
+            },
+            {
+                "name": "autogen-core",
+                "SPDXID": "SPDXRef-pypi-autogen-core-10ad09",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/autogen-core"
+                    }
+                ]
+            },
+            {
+                "name": "autogen-ext",
+                "SPDXID": "SPDXRef-pypi-autogen-ext-3776a1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/autogen-ext"
+                    }
+                ]
+            },
+            {
+                "name": "python-dotenv",
+                "SPDXID": "SPDXRef-pypi-python-dotenv-dfbe12",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/python-dotenv"
+                    }
+                ]
+            },
+            {
+                "name": "websockets",
+                "SPDXID": "SPDXRef-pypi-websockets-e45847",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/websockets"
+                    }
+                ]
+            },
+            {
+                "name": "fastapi",
+                "SPDXID": "SPDXRef-pypi-fastapi-3b2132",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/fastapi"
+                    }
+                ]
+            },
+            {
+                "name": "uvicorn",
+                "SPDXID": "SPDXRef-pypi-uvicorn-52c50c",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/uvicorn"
+                    }
+                ]
+            },
+            {
+                "name": "alembic",
+                "SPDXID": "SPDXRef-pypi-alembic-991145",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/alembic"
+                    }
+                ]
+            },
+            {
+                "name": "pydantic",
+                "SPDXID": "SPDXRef-pypi-pydantic-0cbaae",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pydantic"
+                    }
+                ]
+            },
+            {
+                "name": "numpy",
+                "SPDXID": "SPDXRef-pypi-numpy-681305",
+                "versionInfo": "< 2.0.0",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/numpy"
+                    }
+                ]
+            },
+            {
+                "name": "psycopg",
+                "SPDXID": "SPDXRef-pypi-psycopg-2effcd",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/psycopg"
+                    }
+                ]
+            },
+            {
+                "name": "typer",
+                "SPDXID": "SPDXRef-pypi-typer-c184d3",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/typer"
+                    }
+                ]
+            },
+            {
+                "name": "loguru",
+                "SPDXID": "SPDXRef-pypi-loguru-c409a3",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/loguru"
+                    }
+                ]
+            },
+            {
+                "name": "pyautogen",
+                "SPDXID": "SPDXRef-pypi-pyautogen-c782a6",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/pyautogen"
+                    }
+                ]
+            },
+            {
+                "name": "sqlmodel",
+                "SPDXID": "SPDXRef-pypi-sqlmodel-50f7c8",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/sqlmodel"
+                    }
+                ]
+            },
+            {
+                "name": "arxiv",
+                "SPDXID": "SPDXRef-pypi-arxiv-268a2a",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:pypi/arxiv"
+                    }
+                ]
+            },
+            {
+                "name": "UnicornGlobal/has-changes-action",
+                "SPDXID": "SPDXRef-githubactions-UnicornGlobal-has-changes-action-1.0.11-5a86c1",
+                "versionInfo": "1.0.11",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/UnicornGlobal/has-changes-action@1.0.11"
+                    }
+                ]
+            },
+            {
+                "name": "actions/checkout",
+                "SPDXID": "SPDXRef-githubactions-actions-checkout-4..-991481",
+                "versionInfo": "4.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/checkout@4.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "actions/setup-python",
+                "SPDXID": "SPDXRef-githubactions-actions-setup-python-5..-b38626",
+                "versionInfo": "5.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/setup-python@5.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "astral-sh/setup-uv",
+                "SPDXID": "SPDXRef-githubactions-astral-sh-setup-uv-3..-9d11f3",
+                "versionInfo": "3.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/astral-sh/setup-uv@3.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "github/codeql-action/analyze",
+                "SPDXID": "SPDXRef-githubactions-githubcodeql-action-analyze-3..-af9d9d",
+                "versionInfo": "3.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/github/codeql-action/analyze@3.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "github/codeql-action/init",
+                "SPDXID": "SPDXRef-githubactions-githubcodeql-action-init-3..-7fcd33",
+                "versionInfo": "3.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/github/codeql-action/init@3.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "actions/deploy-pages",
+                "SPDXID": "SPDXRef-githubactions-actions-deploy-pages-4..-46a604",
+                "versionInfo": "4.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/deploy-pages@4.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "actions/upload-artifact",
+                "SPDXID": "SPDXRef-githubactions-actions-upload-artifact-4..-79d7f3",
+                "versionInfo": "4.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/upload-artifact@4.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "actions/download-artifact",
+                "SPDXID": "SPDXRef-githubactions-actions-download-artifact-4..-1335fb",
+                "versionInfo": "4.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/download-artifact@4.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "actions/setup-node",
+                "SPDXID": "SPDXRef-githubactions-actions-setup-node-4..-281e2c",
+                "versionInfo": "4.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/setup-node@4.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "actions/upload-pages-artifact",
+                "SPDXID": "SPDXRef-githubactions-actions-upload-pages-artifact-3..-f5c96e",
+                "versionInfo": "3.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/upload-pages-artifact@3.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "actions/setup-dotnet",
+                "SPDXID": "SPDXRef-githubactions-actions-setup-dotnet-4..-948458",
+                "versionInfo": "4.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/actions/setup-dotnet@4.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "dorny/paths-filter",
+                "SPDXID": "SPDXRef-githubactions-dorny-paths-filter-2..-fda053",
+                "versionInfo": "2.*.*",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/dorny/paths-filter@2.%2A.%2A"
+                    }
+                ]
+            },
+            {
+                "name": "pypa/gh-action-pypi-publish",
+                "SPDXID": "SPDXRef-githubactions-pypa-gh-action-pypi-publish-releasev1-fc83a0",
+                "versionInfo": "release/v1",
+                "downloadLocation": "NOASSERTION",
+                "filesAnalyzed": false,
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:githubactions/pypa/gh-action-pypi-publish@release%2Fv1"
+                    }
+                ]
+            },
+            {
+                "name": "com.github.microsoft/autogen",
+                "SPDXID": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "versionInfo": "main",
+                "downloadLocation": "git+https://github.com/microsoft/autogen",
+                "filesAnalyzed": false,
+                "licenseDeclared": "CC-BY-4.0",
+                "externalRefs": [
+                    {
+                        "referenceCategory": "PACKAGE-MANAGER",
+                        "referenceType": "purl",
+                        "referenceLocator": "pkg:github/microsoft/autogen@main"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-autoprefixer-7b26ed",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-markdown-d87ce5",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-remark-gfm-41e328",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-613322",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-dom-c8865b",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-zustand-58cb0d",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-uuid-447376",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-heroicons-react-91a7d4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-react-dom-892651",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-tailwindcss-typography-fc0b53",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-router-dom-6ce22e",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-syntax-highlighter-d8263e",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-typescript-665fca",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-lodash.debounce-b58159",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-jszip-2e9f19",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-monaco-editor-react-575b3d",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-node-6455d5",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-mdx-js-react-8bbc92",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-tailwindcss-line-clamp-85c2b1",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-papaparse-f407c0",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-react-syntax-highlighter-6db1e3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-tailwindcss-437bcc",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-plugin-image-ac682a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-plugin-manifest-f9b5e4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-plugin-sass-922e5f",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-plugin-sitemap-cb791e",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-source-filesystem-315808",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-transformer-sharp-910f8b",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-resizable-8609de",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-postcss-02f500",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-lodash.debounce-c3b888",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-sass-d06413",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-contenteditable-fc051c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-mdx-js-mdx-2802c5",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-headlessui-react-122ff6",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-antd-d35da5",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-react-resizable-a317b5",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-react-inner-image-zoom-5acdab",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-react-inner-image-zoom-861157",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-ant-design-charts-ff3525",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-plugin-sharp-228f73",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-d14904",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-plugin-mdx-bc76c8",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-gatsby-plugin-postcss-4f29ba",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-papaparse-153c12",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-react-e28e87",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-types-uuid-3914c5",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-npm-ant-design-plots-c2f27a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-azure-identity-2572cc",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-tiktoken-c11881",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi---8e06fa",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-FluentAssertions-98d9d6",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.SemanticKernel.Plugins.Web-c3ec00",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.AI-2ec2d4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Azure.AI.OpenAI-df064d",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Aspire.Hosting.Orleans-895d2c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Aspire.Hosting.AppHost-9652f9",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Aspire.Hosting.Azure.CognitiveServices-f7c250",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Aspire.Hosting.Azure.ApplicationInsights-8973a0",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Aspire.Hosting.Qdrant-5635c9",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Swashbuckle.AspNetCore-81f4dd",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-System.IdentityModel.Tokens.Jwt-ebf458",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Azure-4074d9",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Azure.Identity-4487ce",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Azure.Storage.Files.Shares-a514e0",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Octokit-50cc3f",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.ApplicationInsights.AspNetCore-5186ea",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Http.Resilience-0316c3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Azure.Data.Tables-7c9539",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Octokit.Webhooks.AspNetCore-9f0d91",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.SemanticKernel-0110a3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.SemanticKernel.Plugins.Memory-5cab3a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.SemanticKernel.Connectors.Qdrant-7c0c30",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Azure.ResourceManager.ContainerInstance-774e20",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Google.Protobuf-4abd8a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Grpc.Tools-2c268d",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Configuration.Json-a2b86a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Logging.Console-13a689",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Configuration.EnvironmentVariables-cba332",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Configuration.UserSecrets-be47bd",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Configuration.FileExtensions-583442",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-PdfPig-67ca6c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-System.CommandLine-8ab802",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Logging.Debug-3955d5",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Hosting-c540bd",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Aspire.Hosting-06d36e",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Azure.AI.Inference-8043a2",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Bcl.AsyncInterfaces-ab1021",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-JsonSchema.Net.Generation-d56456",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-System.Memory.Data-389927",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.AI.Abstractions-7ec74e",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-System.IO.Packaging-dd7ba6",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.DotNet.Interactive-3f642f",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.DotNet.Interactive.PackageManagement-673507",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-System.Formats.Asn1-837d68",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.DotNet.Interactive.Jupyter-ab6b5c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Google.Cloud.AIPlatform.V1-8b144f",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-OpenAI-3736a4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.SemanticKernel.Agents.Core-2c04f6",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.SemanticKernel.Connectors.AzureOpenAI-91b81f",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Newtonsoft.Json-227780",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-System.CodeDom-4b2d85",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.CodeAnalysis.CSharp.Workspaces-71bb65",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Grpc.AspNetCore-9e25b6",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Grpc.Net.ClientFactory-171b65",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection.Abstractions-813c11",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection-cf07b1",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-System.Text.Json-84c110",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Aspire.Azure.AI.OpenAI-5bb9e0",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.AI.OpenAI-dc8901",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.AI.Ollama-cac73c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.AI.AzureAIInference-f6ee47",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Sdk-f9f94a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Streaming-bc5515",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Reminders-494508",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Server-47406b",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-OrleansDashboard-09aadd",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Serialization.Protobuf-37b5f7",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Runtime-07fd2b",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Clustering.Cosmos-0379af",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Persistence.Cosmos-57ce29",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Reminders.Cosmos-3259f3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Orleans.Streaming.EventHubs-ded96a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-OpenTelemetry.Extensions.Hosting-d5282c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-OpenTelemetry.Instrumentation.AspNetCore-55b802",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-OpenTelemetry.Instrumentation.Http-e4e4b4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-OpenTelemetry.Exporter.OpenTelemetryProtocol-8cc3cf",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-OpenTelemetry.Instrumentation.Runtime-597231",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.ServiceDiscovery-56d106",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.PowerShell.SDK-f0ee42",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.TestHost-fc99c8",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pandas-481f48",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-openai-b21d31",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-scipy-4ed3e7",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-docker-5930fc",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-tabulate-9a588e",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-huggingface-hub-392b13",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-autogen-core-0.4.0.dev4-6dc96a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-opentelemetry-api-e795a4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pillow-7609cb",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-typing-extensions-def85b",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-protobuf-0a6c44",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-aiohttp-9a12d4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-grpcio-80843b",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-openai-755610",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pydantic-835a81",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-asyncio-atexit-a81255",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-requests-5ef7ca",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-numpy-c68421",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-speechrecognition-e88cf4",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-openpyxl-f818d0",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-beautifulsoup4-2d80a6",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pydub-87f130",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-aiofiles-fb60d2",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-python-pptx-7c9dec",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-markdownify-90ab20",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-playwright-a42320",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pdfminer-six-6ef72c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pathvalidate-f878af",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-youtube-transcript-api-7989d7",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-mammoth-85cf0d",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-puremagic-f30063",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-autogen-core-10ad09",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-autogen-ext-3776a1",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-python-dotenv-dfbe12",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-websockets-e45847",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-fastapi-3b2132",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-uvicorn-52c50c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-alembic-991145",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pydantic-0cbaae",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-numpy-681305",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-psycopg-2effcd",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-typer-c184d3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-loguru-c409a3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-pyautogen-c782a6",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-sqlmodel-50f7c8",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-pypi-arxiv-268a2a",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-UnicornGlobal-has-changes-action-1.0.11-5a86c1",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-checkout-4..-991481",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-setup-python-5..-b38626",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-astral-sh-setup-uv-3..-9d11f3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-githubcodeql-action-analyze-3..-af9d9d",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-githubcodeql-action-init-3..-7fcd33",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-deploy-pages-4..-46a604",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-upload-artifact-4..-79d7f3",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-download-artifact-4..-1335fb",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-setup-node-4..-281e2c",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-upload-pages-artifact-3..-f5c96e",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-actions-setup-dotnet-4..-948458",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-dorny-paths-filter-2..-fda053",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relatedSpdxElement": "SPDXRef-githubactions-pypa-gh-action-pypi-publish-releasev1-fc83a0",
+                "relationshipType": "DEPENDS_ON"
+            },
+            {
+                "spdxElementId": "SPDXRef-DOCUMENT",
+                "relatedSpdxElement": "SPDXRef-github-microsoft-autogen-main-55e4fb",
+                "relationshipType": "DESCRIBES"
+            }
+        ]
+    }
+}
